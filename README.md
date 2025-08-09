@@ -47,6 +47,14 @@ N-Report，中文名 "白龙须"，是一款简单好用, 效果突出的支持W
 
 #### 📦 安装
 
+自动安装
+
+一键安装：3 分钟即可完成自动安装。
+
+bash -c "$(curl -fsSLk https://www.report.bailongxu.com/release/latest/install.sh)"
+
+命令执行成功则代表白龙须安装成功
+
 查看 [安装白龙须](https://docs.report.bailongxu.com/zh/%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2)
 
 #### ⚙️ 配置报表应用
