@@ -34,14 +34,14 @@ N-Report，中文名 "白龙须"，是一款简单好用, 效果突出的支持W
 ## 🔥 核心能力
 
 对于你的报表系统而言, 白龙须可以实现如下效果:
-- `**多种数据源支持**`
-    - 支持mysql、oracle、mssql、db2、瀚高、达梦、人大金仓、redis等等,详见[多源数据支持。](https://docs.report.bailongxu.com/zh/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%E6%94%AF%E6%8C%81)
-- `**多级穿透报表**`
-    - 根据表中字段，快速实现多级表格下钻。
-- `**复杂报表表头**`
-    - 针对中国式复杂表头，通过简单上传excel表头，即可实现页面复杂表头，详见[复杂报表表头。](https://docs.report.bailongxu.com/zh/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%8A%A5%E8%A1%A8)
-- `**多用户体系认证**`
-    - 用户可以对报表，报表目录进行多级授权。
+- **多种数据源支持**
+  支持mysql、oracle、mssql、db2、瀚高、达梦、人大金仓、redis等等,详见[多源数据支持。](https://docs.report.bailongxu.com/zh/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%E6%94%AF%E6%8C%81)
+- **多级穿透报表**
+  根据表中字段，快速实现多级表格下钻。
+- **复杂报表表头**
+  针对中国式复杂表头，通过简单上传excel表头，即可实现页面复杂表头，详见[复杂报表表头。](https://docs.report.bailongxu.com/zh/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%8A%A5%E8%A1%A8)
+- **多用户体系认证**
+  用户可以对报表，报表目录进行多级授权。
 
 ## 🚀 上手指南
 
@@ -51,11 +51,13 @@ N-Report，中文名 "白龙须"，是一款简单好用, 效果突出的支持W
 
 一键安装：3 分钟即可完成自动安装。
 
-bash -c "$(curl -fsSLk https://www.report.bailongxu.com/release/latest/install.sh)"
+```bash
+bash -c "$(curl -fsSLk https://www.report.bailongxu.com/release/latest/install.sh)
+```
 
 命令执行成功则代表白龙须安装成功
 
-查看 [安装白龙须](https://docs.report.bailongxu.com/zh/%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2)
+查看 [安装白龙须N-Report](https://docs.report.bailongxu.com/zh/%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2)
 
 #### ⚙️ 配置报表应用
 
